@@ -5,4 +5,4 @@ FALL 2014
 
 try folder are drafts
 
-homework will be plced in separate folders as HW#
+homework will be placed in separate folders as HW#
