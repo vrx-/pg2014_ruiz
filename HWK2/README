@@ -1,0 +1,10 @@
+problem 1 : dist_array.py
+problem 2 : point_functions.py
+problem 3 : filter.py
+problem 4 : discharge_class.py
+problem 5 : read_etopo5.py & world_plot_scrpt.py 
+
+
+To run in console world_plot_scrpt.py file global_merged5.txt should be pressent in the folder
+
+To run in console discharge_class.py file dv.webarchive should be available in the folder
