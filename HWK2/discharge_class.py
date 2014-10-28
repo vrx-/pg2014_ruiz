@@ -49,6 +49,11 @@ class discharge_data(object):
         plt.show()
 
 
-        
+if __name__=='__main__':
+    data=discharge_data('dv.webarchive')
+    data.plot()
+    t,d=data.extract_year(2000)
+    plt.plot(t, d, '-r')
+    plt.show()
 
         
