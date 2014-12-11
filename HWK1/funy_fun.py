@@ -24,3 +24,5 @@ def integrate(f,dx=1.0):
     for i in range(1,len(f)):
         intg=intg+(dx*(f[i]+f[i-1])/2)
     return intg
+
+
